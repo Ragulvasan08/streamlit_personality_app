@@ -44,7 +44,7 @@ Welcome to the Personality Disorder Prediction Web App! This interactive tool le
 ## 📸 Screenshots
 
 **Login Page:**
-![Login Page](docs/login_page.png)
+![Login Page](https://github.com/Ragulvasan08/streamlit_personality_app/blob/main/Login%20Page.png)
 
 **Input Page:**
 ![Input Page](docs/input_page.png)
