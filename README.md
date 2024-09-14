@@ -47,10 +47,10 @@ Welcome to the Personality Disorder Prediction Web App! This interactive tool le
 ![Login Page](https://github.com/Ragulvasan08/streamlit_personality_app/blob/main/Login%20Page.png)
 
 **Input Page:**
-![Input Page](docs/input_page.png)
+![Input Page](https://github.com/Ragulvasan08/streamlit_personality_app/blob/main/Input%20Page.png)
 
 **Output Page:**
-![Output Page](docs/output_page.png)
+![Output Page](https://github.com/Ragulvasan08/streamlit_personality_app/blob/main/Output%20Page.png)
 
 ## ⚙️ How It Works
 
