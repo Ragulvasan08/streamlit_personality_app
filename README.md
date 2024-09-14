@@ -1,7 +1,3 @@
-Sure! Here's a cool and comprehensive README file for your Streamlit app:
-
----
-
 # Personality Disorder Prediction Web App
 
 Welcome to the Personality Disorder Prediction Web App! This interactive tool leverages machine learning to predict personality types and the presence of borderline personality disorder based on user-provided text. Built using Streamlit, this app provides a seamless and user-friendly interface for making these predictions.
@@ -22,12 +18,12 @@ Welcome to the Personality Disorder Prediction Web App! This interactive tool le
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/personality-prediction-app.git
+   git clone https://github.com/yourusername/streamlit_personality_app.git
    ```
 
 2. **Navigate to the Project Directory**
    ```bash
-   cd personality-prediction-app
+   cd streamlit_personality_app
    ```
 
 3. **Install Dependencies**
