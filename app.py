@@ -20,30 +20,6 @@ def get_base64(file_path):
     with open(file_path, "rb") as image_file:
         return base64.b64encode(image_file.read()).decode('utf-8')
 
-def set_background(png_file):
-    bin_str = get_base64(png_file)
-    page_bg_img = f"""
-    <style>
-    .stApp {{
-        background-image: url("data:image/png;base64,{bin_str}");
-        background-size: cover;
-        background-position: center;
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-    }}
-    section.main {{
-        background-color: transparent;
-    }}
-    .stApp > header {{
-        background-color: transparent;
-    }}
-    </style>
-    """
-    st.markdown(page_bg_img, unsafe_allow_html=True)
-
-# Usage
-set_background("01.jpg")
-
 # Load the saved models and vectorizer
 with open('tfidf_vectorizer.pkl', 'rb') as f:
     tfidf_vectorizer = pickle.load(f)
