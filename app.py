@@ -42,7 +42,7 @@ def set_background(png_file):
     st.markdown(page_bg_img, unsafe_allow_html=True)
 
 # Usage
-set_background(r"C:/Users/ragzv/OneDrive/Personality_app/01.jpg")
+set_background("01.jpg")
 
 # Load the saved models and vectorizer
 with open('tfidf_vectorizer.pkl', 'rb') as f:
