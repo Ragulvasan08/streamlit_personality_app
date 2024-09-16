@@ -41,16 +41,6 @@ Welcome to the Personality Disorder Prediction Web App! This interactive tool le
 5. **Access the App**
    Open your web browser and go to `http://localhost:8501` to interact with the app.
 
-## 📸 Screenshots
-
-**Login Page:**
-![Login Page](https://github.com/Ragulvasan08/streamlit_personality_app/blob/5edf14c30d20d3469ad529800efef87969bea306/Login%20Page.png)
-
-**Input Page:**
-![Input Page](https://github.com/Ragulvasan08/streamlit_personality_app/blob/main/Input%20Page.png)
-
-**Output Page:**
-![Output Page](https://github.com/Ragulvasan08/streamlit_personality_app/blob/main/Output%20Page.png)
 
 ## ⚙️ How It Works
 
